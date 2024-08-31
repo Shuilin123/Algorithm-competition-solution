@@ -1,1 +1,1 @@
-# Algorithm-competition-solution
+# Algorithm-competition-solution [continuously update]
